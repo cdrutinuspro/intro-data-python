@@ -6,9 +6,6 @@ Aucune installation n'est nécessaire : cliquez sur un lien ci-dessous.
 - **Colab** : nécessite un compte Google. Pensez à faire *Fichier → Enregistrer une copie dans Drive* pour conserver votre travail.
 - **Binder** : sans compte, mais démarrage lent (1 à 3 min) et rien n'est sauvegardé : téléchargez votre notebook avant de fermer.
 
-> **Enseignant** : remplacez `cdrutinuspro` par votre identifiant GitHub dans ce fichier
-> et dans la première cellule de chaque notebook.
-
 ## Parcours conseillé
 
 NumPy (1 → 3), puis pandas (1 → 3), puis Matplotlib (1 → 2, et 3 en option).
